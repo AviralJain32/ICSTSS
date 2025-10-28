@@ -24,7 +24,7 @@ const Index: React.FC = () => {
       <ImageCarousel images={carouselImages} />
       <IndexingSection />
       <About />
-      <Objectives />
+      {/* <Objectives /> */}
       <ImportantDatesSection />
       <Footer />
     </div>

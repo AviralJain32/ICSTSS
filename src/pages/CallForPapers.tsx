@@ -21,10 +21,9 @@ const CallForPapers: React.FC = () => {
           </div>
 
           <div className="mb-6">
-            <h3 className="font-druk text-xl text-[#001324] mb-4">Conference Themes & Tracks</h3>
-            <div className="grid md:grid-cols-2 gap-6">
+            <div className="flex flex-col gap-6">
               <div>
-                <h4 className="font-graphik font-bold">Smart Technologies</h4>
+                <h4 className="font-druk text-xl">Track 1: Smart Technologies</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
                   <li>Artificial Intelligence & Machine Learning</li>
                   <li>Internet of Things (IoT) & Edge Computing</li>
@@ -35,7 +34,7 @@ const CallForPapers: React.FC = () => {
               </div>
 
               <div>
-                <h4 className="font-graphik font-bold">Sustainable Systems</h4>
+                <h4 className="font-druk text-xl">Track 2: Sustainable Systems</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
                   <li>Renewable Energy Systems & Smart Grids</li>
                   <li>Green and Sustainable Manufacturing</li>
@@ -46,7 +45,7 @@ const CallForPapers: React.FC = () => {
               </div>
 
               <div>
-                <h4 className="font-graphik font-bold">Integration & Applications</h4>
+                <h4 className="font-druk text-xl">Track 3: Integration & Applications</h4>
                 <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
                   <li>ICT for Sustainable Development</li>
                   <li>Healthcare Technologies & Biomedical Systems</li>
