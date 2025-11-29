@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button } from './ui/button';
 import { Link } from 'react-router-dom';
@@ -14,18 +13,28 @@ const About: React.FC = () => {
         </div>
         
         <div className="max-w-4xl mx-auto bg-white shadow-lg border border-gray-200 rounded-lg p-6">
+          
           <p className="font-publico text-lg text-goldsmiths-text mb-6 leading-relaxed text-justify">
-            The International Conference on Smart Technologies & Sustainable Systems (ICSTSS 2026) aims to bring together leading academicians, researchers, innovators, and industry experts to explore cutting-edge advancements in smart technologies and their role in building sustainable systems for the future.
+            The International Conference on Computer Vision for Smart Sustainable Systems (CV-S3 2026) invites researchers, academicians, industry professionals, and practitioners to submit high-quality original research papers. CV-S3 2026 aims to bring together global experts to discuss cutting-edge innovations in Computer Vision and its transformative role in building smart, sustainable, and resilient systems for the future.
           </p>
+
           <p className="font-publico text-lg text-goldsmiths-text mb-6 leading-relaxed text-justify">
-            In today’s rapidly evolving digital landscape, the convergence of Artificial Intelligence (AI), Internet of Things (IoT), Smart Grids, Green Energy, Blockchain, Cloud Computing, and Data Analytics plays a transformative role in shaping sustainable societies. This conference serves as a premier platform to exchange ideas, present novel research, and discuss innovative solutions that address global challenges such as climate change, energy efficiency, smart cities, sustainable manufacturing, and digital governance.
+            The conference will serve as a premier forum to present advancements, exchange ideas, and explore emerging applications that integrate Computer Vision, Artificial Intelligence, and Sustainability across diverse domains.
           </p>
-          <p className="font-publico text-lg text-goldsmiths-text leading-relaxed text-justify">
-            <strong>ICSTSS 2026 will feature keynote lectures from eminent speakers, technical paper presentations, panel discussions, industry sessions, and workshops designed to foster collaboration between academia and industry.</strong>
-          </p>
-          <Link to={"https://cmt3.research.microsoft.com/ICSTSS2026"}>
-          <Button className='mt-4'>Paper Submission Link</Button>
-          </Link>
+
+          <div className="font-publico text-lg text-goldsmiths-text leading-relaxed text-justify mb-4">
+            <strong className="block mb-2">Why Attend CV-S3 2026?</strong>
+            <ul className="list-disc ml-6 space-y-2">
+              <li>Opportunity to publish in highly reputed indexed proceedings</li>
+              <li>Interaction with leading researchers and industry experts</li>
+              <li>Exposure to global research trends in Computer Vision & Sustainable AI</li>
+              <li>Workshops, keynote talks, and panel discussions by eminent speakers</li>
+            </ul>
+          </div>
+
+          {/* <Link to="https://cmt3.research.microsoft.com/CV-S32026" >
+            <Button className="mt-4">Paper Submission Link</Button>
+          </Link> */}
         </div>
       </div>
     </section>

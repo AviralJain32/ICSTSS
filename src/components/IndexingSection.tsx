@@ -9,10 +9,10 @@ const IndexingSection: React.FC = () => {
         <div className="bg-blue-600 text-white py-2 mb-8 overflow-hidden">
           <div className="animate-marquee whitespace-nowrap">
             <span className="text-lg font-bold mx-8">
-              ICSTSS 2026: ADVANCING SMART TECHNOLOGIES AND SUSTAINABLE SYSTEMS FOR A BETTER FUTURE
+              CV-S3 2026: ADVANCING SMART TECHNOLOGIES AND SUSTAINABLE SYSTEMS FOR A BETTER FUTURE
             </span>
             <span className="text-lg font-bold mx-8">
-              JOIN US AT DONG NAI TECHNOLOGY UNIVERSITY, VIETNAM • 5-6 JUNE 2026
+              JOIN US AT MANIPAL UNIVERSITY, DUBAI • 26-27th SEPTEMBER 2026
             </span>
             <span className="text-lg font-bold mx-8">
               EXPLORING AI, IOT, SMART GRIDS, GREEN ENERGY, AND SUSTAINABLE SOLUTIONS
@@ -23,17 +23,17 @@ const IndexingSection: React.FC = () => {
         {/* Conference Mode Banner */}
         <div className="text-center mb-8">
           <h2 className="text-blue-600 font-bold text-xl md:text-2xl mb-2">
-            ICSTSS 2026 will be organised in Hybrid Mode
+            CV-S3 2026 will be organised in Hybrid Mode
           </h2>
           <p className="text-blue-600 font-semibold text-lg">
-            [ 5th June 2026 - Physical Mode || 6th June 2026 - Digital Mode ]
+            [ 26th September 2026 - Physical Mode || 27th September 2026 - Digital Mode ]
           </p>
         </div>
 
         {/* Publication Info */}
         <div className="text-center mb-8">
           <h3 className="text-gray-700 font-bold text-lg md:text-xl uppercase tracking-wide">
-            All the accepted papers will be published in the proceedings of ICSTSS 2026.
+            All the accepted papers will be published in the proceedings of CV-S3 2026.
           </h3>
         </div>
 

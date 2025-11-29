@@ -124,7 +124,7 @@ const Registration: React.FC = () => {
             </ul>
             <div className="mt-4 text-sm text-gray-600">
               <p className="font-bold">Note:</p>
-              <p className="text-justify">The conference is non-residential and delegates are kindly requested to make their own arrangement for accommodation. If you have any query, please drop a mail to <a href="mailto:icstss.congress@gmail.com" className="text-blue-600 hover:underline">icstss.congress@gmail.com</a>. All participants and authors abide by the organization's guidelines.</p>
+              <p className="text-justify">The conference is non-residential and delegates are kindly requested to make their own arrangement for accommodation. If you have any query, please drop a mail to <a href="mailto:cvs3.congress@gmail.com" className="text-blue-600 hover:underline">cvs3.congress@gmail.com</a>. All participants and authors abide by the organization's guidelines.</p>
             </div>
           </section>
         </div>

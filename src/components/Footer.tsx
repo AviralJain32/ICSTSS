@@ -8,12 +8,12 @@ const Footer: React.FC = () => {
     <div className="grid md:grid-cols-3 gap-8">
     {/* Conference Info */}
   <div>
-  <h3 className="font-druk text-xl mb-4">ICSTSS 2026</h3>
+  <h3 className="font-druk text-xl mb-4">CV-S3 2026</h3>
   <p className="font-publico mb-2">
-  International Conference on Smart Technologies & Sustainable Systems
+  International Conference on Computer Vision for Smart Sustainable Systems
   </p>
-  <p className="font-publico text-sm">5th – 6th June 2026</p>
-  <p className="font-publico text-sm">Dong Nai Technology University, Vietnam</p>
+  <p className="font-publico text-sm">26-27th September 2026</p>
+  <p className="font-publico text-sm">Manipal University, Dubai</p>
   </div>
 
     {/* Contact Info */}
@@ -23,12 +23,12 @@ const Footer: React.FC = () => {
         <div className="flex items-center">
           <Mail className="mr-2" size={16} />
           <div className="font-publico text-sm">
-            <div>icstss.congress@gmail.com</div>
+            <div>cvs3.congress@gmail.com</div>
           </div>
         </div>
     <div className="flex items-center">
     <MapPin className="mr-2" size={16} />
-    <span className="font-publico text-sm">D. Nguyen Khuyen, Quarter 5, Bien Hoa, Dong Nai, Vietnam</span>
+    <span className="font-publico text-sm">G04 - Al Rowaiyah First - Academic City - Dubai - United Arab Emirates</span>
     </div>
     </div>
     </div>
@@ -46,7 +46,7 @@ const Footer: React.FC = () => {
     </div>
 
     <div className="border-t border-gray-600 mt-8 pt-8 text-center space-y-2">
-          <p className="font-publico text-sm">&copy; 2026 ICSTSS. All rights reserved.</p>
+          <p className="font-publico text-sm">&copy; 2026 CV-S3. All rights reserved.</p>
     {/* <p className="font-publico text-sm">
     The Microsoft CMT service was used for managing the peer-reviewing process for this conference.
     This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.

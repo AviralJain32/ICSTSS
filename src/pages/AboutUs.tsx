@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Footer from '@/components/Footer';
 import { Book, Computer } from 'lucide-react';
@@ -16,7 +15,9 @@ const AboutUs: React.FC = () => {
         }}
       >
         <div className="container mx-auto h-full flex items-center justify-center px-4">
-          <h1 className="font-druk text-3xl md:text-5xl text-white text-center">About Us</h1>
+          <h1 className="font-druk text-3xl md:text-5xl text-white text-center">
+            About Us
+          </h1>
         </div>
       </div>
       
@@ -24,36 +25,48 @@ const AboutUs: React.FC = () => {
       <section className="py-16 bg-goldsmiths-beige">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-start gap-6">
+            
+            {/* University Image */}
             <div className="md:w-1/3 flex justify-center md:justify-start mb-6 md:mb-0">
               <img 
-                src="/lovable-uploads/fc596d5c-e4c3-45a5-9917-f9a2fb0d0d4c.png" 
-                alt="Goldsmiths University Main Building" 
+                src="/lovable-uploads/university-main.webp" 
+                alt="Manipal University Dubai Campus" 
                 className="w-full h-64 object-cover rounded-lg shadow-lg border border-gray-200"
               />
             </div>
             
+            {/* Text Section */}
             <div className="md:w-2/3">
               <h2 className="font-druk text-2xl md:text-3xl text-goldsmiths-text mb-6 border-b-4 border-goldsmiths-blue pb-2 inline-block">
                 About the University
               </h2>
               
               <div className="bg-white shadow-lg border border-gray-200 rounded-lg p-6">
+                
                 <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-                  Dong Nai Technology University (DNTU) stands as a beacon of educational innovation and regional advancement in Vietnam. Established on June 16th, 2011, the university was founded with a clear mandate to address the growing workforce demands within Dong Nai’s rapidly evolving socio-economic landscape.
+                  Manipal Academy of Higher Education (MAHE), Dubai Campus—commonly known as  
+                  <strong> Manipal University Dubai (MUD)</strong>—is one of the UAE’s leading multidisciplinary universities.  
+                  With over <strong>25 years of academic excellence</strong> in the region, the university is recognized for  
+                  high-quality education, global standards, and a strong emphasis on research and innovation.
                 </p>
+
                 <p className="font-publico text-lg text-goldsmiths-text mb-4 leading-relaxed">
-                  Looking ahead to 2035, DNTU aspires to establish itself as a leading applied research institution, recognized not only within Vietnam but across Asia. This vision is underpinned by the university’s commitment to fostering a modern, learner-centered educational environment that seamlessly integrates academic excellence with community engagement.
+                  Established in 2000, Manipal University Dubai is the first overseas branch campus of MAHE, India—one of Asia’s largest and most prestigious private universities.  
+                  Today, the Dubai campus hosts a vibrant multicultural community with <strong>3,100+ students from over 50 countries</strong>, offering a global learning environment in the heart of Dubai International Academic City.
                 </p>
+
                 <p className="font-publico text-lg text-goldsmiths-text leading-relaxed">
-                  At its core, DNTU’s mission is to deliver high-quality human resources training, built upon technological innovation and experiential learning. The university actively promotes applied scientific research and knowledge transfer, ensuring that its academic and research activities align with societal needs, international integration, and sustainable development goals.
+                  The university is rated <strong>5 Stars by KHDA</strong> in areas including teaching, employability, overall facilities, and research.  
+                  With state-of-the-art laboratories, studios, technology hubs, and innovation centers, Manipal University Dubai continues to strengthen its mission of fostering academic excellence, promoting applied research, and preparing students to meet the needs of a rapidly evolving digital and sustainable world.
                 </p>
+
               </div>
             </div>
+
           </div>
         </div>
       </section>
 
-      
       <Footer />
     </div>
   );

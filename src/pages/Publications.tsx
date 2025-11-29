@@ -8,7 +8,7 @@ const Publications = () => {
         <div className="max-w-3xl mx-auto">
           <h1 className="text-3xl font-bold mb-6 font-publico">Publications</h1>
           <div className="bg-white p-6 rounded-lg shadow-md">
-            <p className="mb-6">All the accepted papers will be published in the proceedings of ICSTSS 2026.
+            <p className="mb-6">All the accepted papers will be published in the proceedings of CV-S3 2026.
             </p>
             {/* <div className="flex justify-center">
               <img 

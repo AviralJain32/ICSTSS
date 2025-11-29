@@ -17,10 +17,10 @@ const Hero: React.FC = () => {
           International Conference on<br />Smart Technologies & Sustainable Systems
         </h1>
         <h2 className="font-graphik text-xl md:text-2xl lg:text-3xl mb-6 text-goldsmiths-yellow text-center">
-          (ICSTSS 2026)
+          (CV-S3 2026)
         </h2>
         <p className="font-graphik text-lg md:text-xl mb-8 text-center">
-          5-6th June 2026 — Dong Nai Technology University, Vietnam
+          26-27th September 2026 — Manipal University, Dubai
         </p>
         <p className="font-publico text-base md:text-lg mb-8 text-center">
           Bringing together researchers and industry on AI, IoT, Smart Grids, Green Energy, and sustainable systems
