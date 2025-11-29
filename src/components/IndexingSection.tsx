@@ -12,7 +12,7 @@ const IndexingSection: React.FC = () => {
               CV-S3 2026: ADVANCING SMART TECHNOLOGIES AND SUSTAINABLE SYSTEMS FOR A BETTER FUTURE
             </span>
             <span className="text-lg font-bold mx-8">
-              JOIN US AT MANIPAL UNIVERSITY, DUBAI • 26-27th SEPTEMBER 2026
+              JOIN US AT MANIPAL UNIVERSITY, DUBAI • 25-26th SEPTEMBER 2026
             </span>
             <span className="text-lg font-bold mx-8">
               EXPLORING AI, IOT, SMART GRIDS, GREEN ENERGY, AND SUSTAINABLE SOLUTIONS
@@ -26,7 +26,7 @@ const IndexingSection: React.FC = () => {
             CV-S3 2026 will be organised in Hybrid Mode
           </h2>
           <p className="text-blue-600 font-semibold text-lg">
-            [ 26th September 2026 - Physical Mode || 27th September 2026 - Digital Mode ]
+            [ 25th September 2026 - Physical Mode || 26th September 2026 - Digital Mode ]
           </p>
         </div>
 
