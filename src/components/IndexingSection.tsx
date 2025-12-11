@@ -12,7 +12,7 @@ const IndexingSection: React.FC = () => {
               CV-S3 2026: ADVANCING SMART TECHNOLOGIES AND SUSTAINABLE SYSTEMS FOR A BETTER FUTURE
             </span>
             <span className="text-lg font-bold mx-8">
-              JOIN US AT Manipal Academy of Higher Education (MAHE), Dubai Campus • 25-26th SEPTEMBER 2026
+              JOIN US AT Manipal Academy of Higher Education (MAHE), Dubai Campus • 23-24th SEPTEMBER 2026
             </span>
             <span className="text-lg font-bold mx-8">
               EXPLORING AI, IOT, SMART GRIDS, GREEN ENERGY, AND SUSTAINABLE SOLUTIONS
