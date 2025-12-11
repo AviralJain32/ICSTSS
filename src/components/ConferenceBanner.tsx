@@ -21,11 +21,11 @@ const ConferenceBanner = () => {
             alt="CV-S3 Logo" 
             className="h-16 md:h-20 w-auto"
           />
-          <img 
+          {/* <img 
             src="/lovable-uploads/Springer.jpg" 
             alt="Springer Logo" 
             className="h-16 md:h-20 w-auto"
-          />
+          /> */}
         </div>
 
         {/* Center - Conference Details */}
@@ -35,7 +35,7 @@ const ConferenceBanner = () => {
           </h1>
           <h2 className="text-base md:text-xl font-medium mb-2">(CV-S3 2026)</h2>
           <p className="text-sm md:text-base font-medium mb-2">
-            Venue: Manipal University, Dubai
+            Venue: Manipal Academy of Higher Education (MAHE), Dubai Campus
           </p>
           <div className="flex items-center justify-center text-sm md:text-base mb-2">
             <Calendar className="mr-2" size={16} />

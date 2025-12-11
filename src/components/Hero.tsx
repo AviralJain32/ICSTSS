@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
           (CV-S3 2026)
         </h2>
         <p className="font-graphik text-lg md:text-xl mb-8 text-center">
-          25-26th September 2026 — Manipal University, Dubai
+          25-26th September 2026 — Manipal Academy of Higher Education (MAHE), Dubai Campus
         </p>
         <p className="font-publico text-base md:text-lg mb-8 text-center">
           Bringing together researchers and industry on AI, IoT, Smart Grids, Green Energy, and sustainable systems

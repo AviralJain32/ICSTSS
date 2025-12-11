@@ -32,9 +32,9 @@ const About: React.FC = () => {
             </ul>
           </div>
 
-          {/* <Link to="https://cmt3.research.microsoft.com/CV-S32026" >
+          <Link to="https://cmt3.research.microsoft.com/CVSSS2026" >
             <Button className="mt-4">Paper Submission Link</Button>
-          </Link> */}
+          </Link>
         </div>
       </div>
     </section>

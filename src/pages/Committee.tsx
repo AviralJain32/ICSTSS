@@ -4,15 +4,17 @@ import Footer from '@/components/Footer';
 const Committee = () => {
   const generalChairs = [
     { name: "George A. Tsihrintzis", affiliation: "University of Piraeus, Greece" },
+    { name: "Sudhindra Shamanna", affiliation: "Pro Vice Chancellor,Manipal Academy of Higher Education, Dubai" },
+    
   ];
 
   const honoraryChairs = [
     { name: "Manu Malek", affiliation: "EiC Computer and Electrical Engineering, Stevens Institute of Technology, USA" },
   ];
 
-  // const conferenceChairs = [
-  //   { name: "—", affiliation: "" },
-  // ];
+  const conferenceChairs = [
+    { name: "Balamurugan Balusamy", affiliation: "Manipal Academy of Higher Education, Dubai" },
+  ];
 
   const technicalProgramChairs = [
     { name: "Rajkumar Singh Rathore", affiliation: "Cardiff Metropolitan University, UK" },

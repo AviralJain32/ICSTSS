@@ -6,6 +6,7 @@ import ImportantDatesSection from '@/components/ImportantDatesSection';
 import Footer from '@/components/Footer';
 import ImageCarousel from '@/components/ImageCarousel';
 import IndexingSection from '@/components/IndexingSection';
+import KeynoteSpeakers from '@/components/KeynoteSpeakers';
 
 const Index: React.FC = () => {
   const carouselImages = [
@@ -24,6 +25,7 @@ const Index: React.FC = () => {
       <ImageCarousel images={carouselImages} />
       <IndexingSection />
       <About />
+      <KeynoteSpeakers />
       {/* <Objectives /> */}
       <ImportantDatesSection />
       <Footer />

@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
   International Conference on Computer Vision for Smart Sustainable Systems
   </p>
   <p className="font-publico text-sm">25-26th September 2026</p>
-  <p className="font-publico text-sm">Manipal University, Dubai</p>
+  <p className="font-publico text-sm">Manipal Academy of Higher Education (MAHE), Dubai Campus</p>
   </div>
 
     {/* Contact Info */}
