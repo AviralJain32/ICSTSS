@@ -50,7 +50,7 @@ const Navbar: React.FC = () => {
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about-us' },
     { 
-      name: 'Papers', 
+      name: 'Author Info', 
       href: '#papers', 
       hasDropdown: true,
       dropdownItems: [
