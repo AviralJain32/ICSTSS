@@ -26,7 +26,7 @@ const IndexingSection: React.FC = () => {
             CV-S3 2026 will be organised in Hybrid Mode
           </h2>
           <p className="text-blue-600 font-semibold text-lg">
-            [ 25th September 2026 - Physical Mode || 26th September 2026 - Digital Mode ]
+            [ 23rd September 2026 - Physical Mode || 24th September 2026 - Digital Mode ]
           </p>
         </div>
 
