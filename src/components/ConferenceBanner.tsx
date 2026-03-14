@@ -29,13 +29,13 @@ const ConferenceBanner = () => {
         </div>
 
         {/* Center - Conference Details */}
-        <div className="text-center text-white flex-grow">
+        <div className="text-center text-white flex-grow bg">
           <h1 className="text-lg md:text-2xl font-medium tracking-tight mb-2">
             International Conference on Computer Vision for Smart Sustainable Systems
           </h1>
           <h2 className="text-base md:text-xl font-medium mb-2">(CV-S3 2026)</h2>
           <p className="text-sm md:text-base font-medium mb-2">
-            Venue: Manipal Academy of Higher Education (MAHE), Dubai Campus
+            Organised by Manipal Academy of Higher Education (MAHE), Dubai Campus in collaboration with Dong Nai University of Technology, Vietnam
           </p>
           <div className="flex items-center justify-center text-sm md:text-base mb-2">
             <Calendar className="mr-2" size={16} />
@@ -47,10 +47,15 @@ const ConferenceBanner = () => {
         </div>
 
         {/* Right Logo (moves below on mobile) */}
-        <div>
+        <div className='flex items-center gap-2 lg:flex-row flex-col'>
           <img 
             src="/lovable-uploads/logo.png" 
             alt="Goldsmiths University of London" 
+            className="h-16 md:h-20 w-auto"
+          />
+          <img 
+            src="/lovable-uploads/DNTU.jpeg" 
+            alt="Dong Nai University of Technology Logo" 
             className="h-16 md:h-20 w-auto"
           />
         </div>
