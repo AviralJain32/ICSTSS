@@ -31,7 +31,9 @@ const About: React.FC = () => {
               <li>Workshops, keynote talks, and panel discussions by eminent speakers</li>
             </ul>
           </div>
-
+          <p className="font-publico text-lg text-goldsmiths-text my-6 leading-relaxed text-justify">
+          ⁠All the accepted papers of CV-S3 2026 will be published as a proceedings of CV-S3  2026 in Springer Lecture Notes in Networks & Systems (LNNS), indexed by Scopus, EI, WoS and other reputed Databases.
+          </p>
           <Link to="https://cmt3.research.microsoft.com/CVSSS2026" >
             <Button className="mt-4">Paper Submission Link</Button>
           </Link>

@@ -21,11 +21,11 @@ const ConferenceBanner = () => {
             alt="CV-S3 Logo" 
             className="h-16 md:h-20 w-auto"
           />
-          {/* <img 
+          <img 
             src="/lovable-uploads/Springer.jpg" 
             alt="Springer Logo" 
             className="h-16 md:h-20 w-auto"
-          /> */}
+          />
         </div>
 
         {/* Center - Conference Details */}

@@ -9,13 +9,13 @@ const IndexingSection: React.FC = () => {
         <div className="bg-blue-600 text-white py-2 mb-8 overflow-hidden">
           <div className="animate-marquee whitespace-nowrap">
             <span className="text-lg font-bold mx-8">
-              CV-S3 2026: ADVANCING SMART TECHNOLOGIES AND SUSTAINABLE SYSTEMS FOR A BETTER FUTURE
+              All the accepted papers will be published in the proceedings of CV-S3 2026 in Springer Lecture Notes in Networks & Systems
             </span>
             <span className="text-lg font-bold mx-8">
-              JOIN US AT Manipal Academy of Higher Education (MAHE), Dubai Campus • 23-24th SEPTEMBER 2026
+              All the accepted papers will be published in the proceedings of CV-S3 2026 in Springer Lecture Notes in Networks & Systems
             </span>
             <span className="text-lg font-bold mx-8">
-              EXPLORING AI, IOT, SMART GRIDS, GREEN ENERGY, AND SUSTAINABLE SOLUTIONS
+              All the accepted papers will be published in the proceedings of CV-S3 2026 in Springer Lecture Notes in Networks & Systems
             </span>
           </div>
         </div>
