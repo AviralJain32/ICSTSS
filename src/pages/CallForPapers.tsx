@@ -25,85 +25,59 @@ const CallForPapers: React.FC = () => {
 
     {/* Track 1 */}
     <div>
-      <h4 className="font-druk text-xl">Track 1: Intelligent Computing & Artificial Intelligence</h4>
+      <h4 className="font-druk text-xl">Track 1: Computer Vision Foundations</h4>
       <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-        <li>Artificial Intelligence and Machine Learning</li>
-        <li>Deep Learning and Neural Networks</li>
-        <li>Explainable AI</li>
-        <li>Natural Language Processing</li>
-        <li>Computer Vision and Image Processing</li>
-        <li>Reinforcement Learning</li>
-        <li>Cognitive Computing</li>
-        <li>Intelligent Decision Support Systems</li>
-        <li>Robotics and Autonomous Systems</li>
-        <li>AI for Healthcare, Education, and Smart Cities</li>
+        <li>Image processing, feature extraction, and pattern recognition</li>
+        <li>Deep learning architectures for vision</li>
+        <li>3D vision, reconstruction, and modelling</li>
+        <li>Video analytics and motion tracking</li>
+        <li>Explainable and trustworthy vision models</li>
       </ul>
     </div>
 
     {/* Track 2 */}
     <div>
-      <h4 className="font-druk text-xl">Track 2: Data Science & Innovative Data Technologies</h4>
+      <h4 className="font-druk text-xl">Track 2: Smart & Sustainable Systems</h4>
       <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-        <li>Big Data Analytics</li>
-        <li>Data Mining and Knowledge Discovery</li>
-        <li>Predictive Analytics</li>
-        <li>Business Intelligence</li>
-        <li>Data Visualization</li>
-        <li>Cloud Data Platforms</li>
-        <li>Data Warehousing</li>
-        <li>Real-Time Data Processing</li>
-        <li>Data Governance and Ethics</li>
-        <li>Smart Data Management</li>
-        <li>Industrial Data Analytics</li>
-        <li>Social Network Analytics</li>
+        <li>Vision-based smart city solutions</li>
+        <li>Intelligent transportation systems & autonomous vehicles</li>
+        <li>Vision for environmental monitoring & climate analysis</li>
+        <li>Remote sensing & geospatial vision applications</li>
+        <li>Smart healthcare and medical imaging systems</li>
       </ul>
     </div>
 
     {/* Track 3 */}
     <div>
-      <h4 className="font-druk text-xl">Track 3: Information & Communication Technologies</h4>
+      <h4 className="font-druk text-xl">Track 3: AI for Sustainability</h4>
       <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-        <li>Wireless Communication</li>
-        <li>5G/6G Networks</li>
-        <li>Internet of Things (IoT)</li>
-        <li>Edge and Fog Computing</li>
-        <li>Mobile Computing</li>
-        <li>Cyber-Physical Systems</li>
-        <li>Human-Computer Interaction</li>
-        <li>Multimedia Technologies</li>
-        <li>Smart Communication Systems</li>
-        <li>Software Engineering and Applications</li>
+        <li>Vision-enabled sustainable industrial automation</li>
+        <li>Energy-efficient AI and green computing</li>
+        <li>Vision-based waste management and recycling</li>
+        <li>Agriculture, water resource management, and biodiversity monitoring</li>
       </ul>
     </div>
 
     {/* Track 4 */}
     <div>
-      <h4 className="font-druk text-xl">Track 4: Cybersecurity & Privacy</h4>
+      <h4 className="font-druk text-xl">Track 4: Human–Computer Interaction & Robotics</h4>
       <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-        <li>Information Security</li>
-        <li>Network Security</li>
-        <li>Blockchain Technologies</li>
-        <li>Digital Forensics</li>
-        <li>Privacy-Preserving Technologies</li>
-        <li>Cryptography and Authentication</li>
-        <li>Cyber Threat Intelligence</li>
-        <li>Secure Cloud Computing</li>
+        <li>Vision-guided robots and drones</li>
+        <li>Gesture, face, and emotion recognition</li>
+        <li>AR/VR/XR for education, training, and sustainability</li>
+        <li>Human-centred computing</li>
       </ul>
     </div>
 
     {/* Track 5 */}
     <div>
-      <h4 className="font-druk text-xl">Track 5: Emerging and Interdisciplinary Technologies</h4>
+      <h4 className="font-druk text-xl">Track 5: Applications & Emerging Trends</h4>
       <ul className="list-disc pl-6 space-y-1 font-graphik mt-2">
-        <li>Quantum Computing</li>
-        <li>Green Computing</li>
-        <li>Industry 5.0</li>
-        <li>Smart Manufacturing</li>
-        <li>Digital Twin Technologies</li>
-        <li>FinTech and Smart Banking</li>
-        <li>Intelligent Transportation Systems</li>
-        <li>AR/VR Applications</li>
-        <li>Sustainable Computing Technologies</li>
+        <li>Vision for disaster prediction and management</li>
+        <li>Security, surveillance, and biometrics</li>
+        <li>Vision in fintech, retail, and smart manufacturing</li>
+        <li>Generative AI, diffusion models, and multimodal systems</li>
+        <li>Ethical, legal, and societal impacts of computer vision</li>
       </ul>
     </div>
 
