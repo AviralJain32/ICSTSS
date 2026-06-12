@@ -59,6 +59,7 @@ const Navbar: React.FC = () => {
         { name: 'Quality Policies', href: '/quality-policies' }
       ]
     },
+    { name: 'AI Conclave', href: '/ai-conclave' },
     { name: 'Committee', href: '/committee' },
      { name: 'Awards', href: '/awards' },
     { name: 'Registration', href: '/registration' },
