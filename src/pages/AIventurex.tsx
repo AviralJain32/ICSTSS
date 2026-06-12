@@ -1,13 +1,13 @@
 import React from 'react';
 import Footer from '@/components/Footer';
 
-const AIConclave: React.FC = () => {
+const AIventurex: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col">
       <div className="container mx-auto px-4 py-12 flex-grow">
         <div className="max-w-5xl mx-auto bg-white p-8 rounded-lg shadow-lg">
           <h1 className="font-druk text-3xl md:text-4xl text-[#001324] mb-4">AI VentureX 2026</h1>
-          <p className="font-druk text-xl text-[#001324] mb-6">AI Conclave for Business Leaders, Innovators & Entrepreneurs</p>
+          <p className="font-druk text-xl text-[#001324] mb-6">AI VentureX for Business Leaders, Innovators & Entrepreneurs</p>
           <p className="font-graphik text-lg text-gray-700 leading-relaxed mb-8">
             Transform. Innovate. Scale with AI.
           </p>
@@ -16,13 +16,13 @@ const AIConclave: React.FC = () => {
             <div className="rounded-2xl border border-gray-200 bg-[#f9f5e9] p-6">
               <p className="font-druk text-2xl text-[#001324] mb-4">AI VentureX 2026</p>
               <p className="font-graphik text-base text-gray-700 leading-relaxed">
-                AI VentureX 2026 is a premier international AI conclave designed to help businesses, enterprises, startups, entrepreneurs, investors, and professionals harness the power of Artificial Intelligence for growth, innovation, productivity, and competitive advantage.
+                AI VentureX 2026 is a premier international AI VentureX designed to help businesses, enterprises, startups, entrepreneurs, investors, and professionals harness the power of Artificial Intelligence for growth, innovation, productivity, and competitive advantage.
               </p>
             </div>
           </section>
 
           <section className="mb-10">
-            <h2 className="font-druk text-2xl text-[#001324] mb-4">About the Conclave</h2>
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">About the VentureX</h2>
             <p className="font-graphik text-gray-700 leading-relaxed mb-4">
               Co-located with CV-S3 2026 – International Conference on Computer Vision for Smart Sustainable Systems, AI VentureX brings together global AI experts, business leaders, policymakers, researchers, investors, innovators, and technology providers to explore how AI is transforming industries and shaping the future of business.
             </p>
@@ -214,7 +214,7 @@ const AIConclave: React.FC = () => {
               <p className="font-druk text-xl text-[#001324] mb-3">Where AI Meets Ambition. Where Businesses Scale Beyond Limits.</p>
               <p className="text-gray-700 font-graphik">Dubai, UAE | 23–24 September 2026</p>
               <p className="text-gray-700 font-graphik mt-2">
-                Website: <a href="https://www.cvs3-conference.com/ai-conclave" className="text-blue-600 hover:underline">https://www.cvs3-conference.com/ai-conclave</a>
+                Website: <a href="https://www.cvs3-conference.com/ai-venturex" className="text-blue-600 hover:underline">https://www.cvs3-conference.com/ai-venturex</a>
               </p>
               <p className="text-gray-700 font-graphik">Email: <a href="mailto:cvs3.congress@gmail.com" className="text-blue-600 hover:underline">cvs3.congress@gmail.com</a></p>
             </div>
@@ -226,4 +226,4 @@ const AIConclave: React.FC = () => {
   );
 };
 
-export default AIConclave;
+export default AIventurex;

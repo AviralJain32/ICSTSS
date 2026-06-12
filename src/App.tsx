@@ -17,7 +17,7 @@ import Publications from "./pages/Publications";
 import ConferenceVenue from "./pages/ConferenceVenue";
 import Downloads from "./pages/Downloads";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import AIConclave from "./pages/AIConclave";
+import AIventurex from "./pages/AIventurex";
 import ConferenceBanner from "./components/ConferenceBanner";
 import Navbar from "./components/Navbar";
 import ImportantDatesModal from "./components/ImportantDatesModal";
@@ -50,7 +50,7 @@ const App: React.FC = () => (
               <Route path="/conference-venue" element={<ConferenceVenue />} />
               <Route path="/downloads" element={<Downloads />} />
               <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-              <Route path="/ai-conclave" element={<AIConclave />} />
+              <Route path="/ai-venturex" element={<AIventurex />} />
               <Route path="/awards" element={<CvAwards />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
