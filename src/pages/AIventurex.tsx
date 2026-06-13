@@ -11,6 +11,13 @@ const AIventurex: React.FC = () => {
           <p className="font-graphik text-lg text-gray-700 leading-relaxed mb-8">
             Transform. Innovate. Scale with AI.
           </p>
+          <div className="mb-10 overflow-hidden rounded-3xl shadow-xl">
+            <img
+              src="/AI_VENTUREX.jpeg"
+              alt="AI VentureX 2026"
+              className="w-full h-auto object-cover transition-transform duration-500 hover:scale-[1.02]"
+            />
+          </div>
 
           <section className="mb-10">
             <div className="rounded-2xl border border-gray-200 bg-[#f9f5e9] p-6">
