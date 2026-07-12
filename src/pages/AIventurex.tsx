@@ -8,9 +8,20 @@ const AIventurex: React.FC = () => {
         <div className="max-w-5xl mx-auto bg-white p-8 rounded-lg shadow-lg">
           <h1 className="font-druk text-3xl md:text-4xl text-[#001324] mb-4">AI VentureX 2026</h1>
           <p className="font-druk text-xl text-[#001324] mb-6">AI VentureX for Business Leaders, Innovators & Entrepreneurs</p>
-          <p className="font-graphik text-lg text-gray-700 leading-relaxed mb-8">
+          <p className="font-graphik text-lg text-gray-700 leading-relaxed mb-6">
             Transform. Innovate. Scale with AI.
           </p>
+          <div className="mb-8 flex flex-wrap items-center gap-3">
+            <a
+              href="https://forms.gle/2mZY5XDJBfNiP7VPA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center rounded-full bg-[#001324] px-5 py-3 text-sm font-semibold text-white shadow-md transition hover:bg-[#00304f]"
+            >
+              Register Now
+            </a>
+            <span className="text-sm text-gray-600">Secure your spot for AI VentureX 2026</span>
+          </div>
           <div className="mb-10 overflow-hidden rounded-3xl shadow-xl">
             <img
               src="/AI_VENTUREX.jpeg"
