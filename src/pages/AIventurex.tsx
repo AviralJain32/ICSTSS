@@ -68,7 +68,7 @@ const AIventurex: React.FC = () => {
                 Website: <a href="https://www.cvs3-conference.com/ai-venturex" className="text-blue-600 hover:underline">https://www.cvs3-conference.com/ai-venturex</a>
               </p>
               <p>
-                Email: <a href="mailto:cvs3.congress@gmail.com" className="text-blue-600 hover:underline">cvs3.congress@gmail.com</a>
+                Email: <a href="mailto:support@cvs3-conference.com" className="text-blue-600 hover:underline">support@cvs3-conference.com</a>
               </p>
             </div>
           </section>
@@ -234,7 +234,7 @@ const AIventurex: React.FC = () => {
               <p className="text-gray-700 font-graphik mt-2">
                 Website: <a href="https://www.cvs3-conference.com/ai-venturex" className="text-blue-600 hover:underline">https://www.cvs3-conference.com/ai-venturex</a>
               </p>
-              <p className="text-gray-700 font-graphik">Email: <a href="mailto:cvs3.congress@gmail.com" className="text-blue-600 hover:underline">cvs3.congress@gmail.com</a></p>
+              <p className="text-gray-700 font-graphik">Email: <a href="mailto:support@cvs3-conference.com" className="text-blue-600 hover:underline">support@cvs3-conference.com</a></p>
             </div>
           </section>
         </div>
