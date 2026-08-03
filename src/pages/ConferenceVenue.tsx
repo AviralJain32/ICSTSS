@@ -102,8 +102,8 @@ const ConferenceVenue = () => {
 
             <p className="text-justify mb-4 text-sm text-gray-600">
               If you need an official invitation letter for visa purposes, please register for the conference and email the conference secretariat at{' '}
-              <a href="mailto:support@cvs3-conference.com" className="text-blue-600 hover:underline">
-                support@cvs3-conference.com
+              <a href="mailto:cvs3.congress@gmail.com" className="text-blue-600 hover:underline">
+                cvs3.congress@gmail.com
               </a>.  
               Invitation letters are issued upon request and after registration/payment confirmation. Note that this does not guarantee visa approval.
             </p>
