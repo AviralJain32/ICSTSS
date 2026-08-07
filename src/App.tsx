@@ -23,6 +23,7 @@ import Navbar from "./components/Navbar";
 import ImportantDatesModal from "./components/ImportantDatesModal";
 import CheckoutForm from './pages/Checkout';
 import CvAwards from './pages/CvAwards';
+import InvitedSpeakers from './pages/InvitedSpeakers';
 
 const queryClient = new QueryClient();
 
@@ -46,6 +47,7 @@ const App: React.FC = () => (
               <Route path="/committee" element={<Committee />} />
               <Route path="/registration" element={<Registration />} />
               <Route path="/checkout" element={<CheckoutForm />} />
+              <Route path="/invited-speakers" element={<InvitedSpeakers />} />
               <Route path="/publications" element={<Publications />} />
               <Route path="/conference-venue" element={<ConferenceVenue />} />
               <Route path="/downloads" element={<Downloads />} />
