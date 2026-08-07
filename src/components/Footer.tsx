@@ -23,7 +23,8 @@ const Footer: React.FC = () => {
         <div className="flex items-center">
           <Mail className="mr-2" size={16} />
           <div className="font-publico text-sm">
-            <div>cvs3.congress@gmail.com</div>
+            <div><a href="mailto:cvs3.congress@gmail.com" className="text-blue-200 hover:underline">cvs3.congress@gmail.com</a></div>
+            <div><a href="mailto:support@cvs3-conference.com" className="text-blue-200 hover:underline">support@cvs3-conference.com</a></div>
           </div>
         </div>
     <div className="flex items-center">
