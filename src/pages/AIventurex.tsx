@@ -193,18 +193,190 @@ const AIventurex: React.FC = () => {
           </section>
 
           <section className="mb-10">
-            <h2 className="font-druk text-2xl text-[#001324] mb-4">Special Events</h2>
-            <ul className="list-disc pl-6 space-y-3 text-gray-700 font-graphik">
-              <li>Startup & Innovation Showcase</li>
-              <li>Startup Pitch Competition</li>
-              <li>Investor Connect Forum</li>
-              <li>AI Solution Demonstrations</li>
-              <li>Product Launches</li>
-              <li>International Collaboration Forum</li>
-              <li>Student Innovation Showcase</li>
-              <li>Grand Awards Ceremony</li>
-              <li>Gala Networking Reception</li>
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">AI Venture X @ CV-S3 2026 Programme</h2>
+            <div className="space-y-6 text-gray-700 font-graphik">
+              <div>
+                <p className="font-bold text-lg">🚀 Startup & Innovation Showcase</p>
+                <p className="leading-relaxed">A dedicated platform for startups and innovators to exhibit their AI-powered products, prototypes, technologies, research innovations and sustainable solutions to an international audience.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🎤 Startup Pitch Competition</p>
+                <p className="leading-relaxed">Selected startups will pitch their ventures before an expert jury comprising investors, entrepreneurs, industry leaders, academicians and technology experts. Evaluation may consider innovation, technology, market opportunity, scalability, business model, team strength and social/industrial impact.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">💼 Investor Connect Forum</p>
+                <p className="leading-relaxed">A structured networking platform connecting startups and technology innovators with investors, venture capital firms, angel investors, incubators and industry stakeholders.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🤖 AI Solution Demonstrations</p>
+                <p className="leading-relaxed">Live demonstrations of innovative AI and computer vision applications, including AI agents, intelligent automation, robotics, healthcare AI, smart-city technologies, computer vision systems and sustainable AI solutions.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🚀 Product Launches</p>
+                <p className="leading-relaxed">An international platform for organisations and startups to introduce new AI products, platforms, technologies and solutions to researchers, industry representatives, investors and potential customers.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🌍 International Collaboration Forum</p>
+                <p className="leading-relaxed">A dedicated forum for developing international research collaborations, university partnerships, industry collaborations, technology transfer opportunities, student mobility and joint innovation initiatives.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🎓 Student Innovation Showcase</p>
+                <p className="leading-relaxed">A platform for students and young innovators to present AI projects, computer vision applications, prototypes, startups and innovative solutions before academics, industry experts and investors.</p>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🏆 Grand Awards Ceremony</p>
+                <p className="leading-relaxed mb-3">The AI Venture X @ CV-S3 2026 Grand Awards Ceremony will recognise outstanding startups, innovators, researchers, student innovators, technology solutions and industry contributions emerging from the programme.</p>
+                <p className="font-semibold mb-2">Possible recognitions can include:</p>
+                <ul className="list-disc pl-6 space-y-1">
+                  <li>AI Startup of the Year</li>
+                  <li>Most Innovative AI Solution</li>
+                  <li>Best Computer Vision Innovation</li>
+                  <li>Best Sustainable AI Solution</li>
+                  <li>Best Student Innovation</li>
+                  <li>Best AI Product</li>
+                  <li>Emerging AI Entrepreneur</li>
+                  <li>AI Innovation Leadership Award</li>
+                </ul>
+              </div>
+              <div>
+                <p className="font-bold text-lg">🥂 Gala Networking Reception</p>
+              </div>
+            </div>
+          </section>
+
+          <section className="mb-10">
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">Selection Process Overview</h2>
+            <p className="font-graphik text-gray-700 leading-relaxed mb-4">
+              The AI Venture X @ CV-S3 2026 selection process will identify and recognise outstanding researchers, innovators, startups, entrepreneurs, educators, industry professionals, and emerging technology leaders contributing to Artificial Intelligence, Computer Vision, Smart Systems, and Sustainable Technologies.
+            </p>
+            <p className="font-graphik text-gray-700 leading-relaxed mb-4">
+              The process will follow a transparent, merit-based, and multi-stage evaluation framework:
+            </p>
+            <div className="rounded-xl border border-gray-200 bg-[#f9f5e9] p-5 text-center font-graphik font-semibold text-[#001324] mb-4">
+              Open Nominations → Eligibility Screening → Expert Evaluation → Shortlisting → Jury Review → Final Selection → Recognition at CV-S3 2026
+            </div>
+            <p className="font-graphik text-gray-700 leading-relaxed">
+              The selection will consider both technical excellence and real-world impact, ensuring that recognition is not based solely on academic publications or commercial success.
+            </p>
+          </section>
+
+          <section className="mb-10">
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">Selection Criteria Framework</h2>
+            <div className="overflow-x-auto">
+              <table className="w-full text-left border-collapse font-graphik text-gray-700">
+                <thead>
+                  <tr className="bg-[#001324] text-white">
+                    <th className="p-3 border border-gray-200">Evaluation Area</th>
+                    <th className="p-3 border border-gray-200">Weightage</th>
+                    <th className="p-3 border border-gray-200">Key Considerations</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Innovation & Originality</td>
+                    <td className="p-3 border border-gray-200">20%</td>
+                    <td className="p-3 border border-gray-200">Novelty of idea, technology, methodology or solution</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Technical Excellence</td>
+                    <td className="p-3 border border-gray-200">15%</td>
+                    <td className="p-3 border border-gray-200">Technical depth, research quality and implementation</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Impact & Outcomes</td>
+                    <td className="p-3 border border-gray-200">20%</td>
+                    <td className="p-3 border border-gray-200">Measurable academic, industrial, societal or environmental impact</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">AI / Computer Vision Contribution</td>
+                    <td className="p-3 border border-gray-200">15%</td>
+                    <td className="p-3 border border-gray-200">Contribution to AI, CV, intelligent systems or related technologies</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Sustainability & Social Relevance</td>
+                    <td className="p-3 border border-gray-200">10%</td>
+                    <td className="p-3 border border-gray-200">Contribution to sustainable development and societal challenges</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Leadership & Entrepreneurship</td>
+                    <td className="p-3 border border-gray-200">10%</td>
+                    <td className="p-3 border border-gray-200">Leadership, innovation ecosystem development and entrepreneurial contribution</td>
+                  </tr>
+                  <tr className="odd:bg-white even:bg-[#f9f5e9]">
+                    <td className="p-3 border border-gray-200 font-bold">Scalability & Future Potential</td>
+                    <td className="p-3 border border-gray-200">10%</td>
+                    <td className="p-3 border border-gray-200">Potential for wider adoption, deployment or future development</td>
+                  </tr>
+                  <tr className="bg-[#001324] text-white font-bold">
+                    <td className="p-3 border border-gray-200">Total</td>
+                    <td className="p-3 border border-gray-200">100%</td>
+                    <td className="p-3 border border-gray-200"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div className="mt-6">
+              <p className="font-bold text-lg text-[#001324] mb-3">Additional Selection Considerations</p>
+              <p className="font-graphik text-gray-700 leading-relaxed mb-3">Depending on the category, the jury may also consider:</p>
+              <ul className="list-disc pl-6 space-y-2 font-graphik text-gray-700">
+                <li>Quality and significance of research publications</li>
+                <li>Patents, technologies and intellectual property</li>
+                <li>Successful products or AI solutions</li>
+                <li>Startup growth and technology adoption</li>
+                <li>Industry collaborations</li>
+                <li>Research grants and funded projects</li>
+                <li>Social and community impact</li>
+                <li>International collaborations</li>
+                <li>Student and young researcher contributions</li>
+                <li>Demonstrated leadership in responsible and ethical AI</li>
+              </ul>
+            </div>
+          </section>
+
+          <section className="mb-10">
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">Open Nominations Process</h2>
+            <p className="font-graphik text-gray-700 leading-relaxed mb-4">
+              AI Venture X @ CV-S3 2026 will follow an Open Nominations model, allowing individuals and organisations from across the world to nominate deserving candidates.
+            </p>
+            <p className="font-bold text-lg text-[#001324] mb-3">Who Can Nominate?</p>
+            <p className="font-graphik text-gray-700 mb-3">Nominations may be submitted by:</p>
+            <ul className="list-disc pl-6 space-y-2 font-graphik text-gray-700 md:columns-2">
+              <li>Researchers and academicians</li>
+              <li>Universities and research institutions</li>
+              <li>Industry professionals</li>
+              <li>Startups and entrepreneurs</li>
+              <li>Professional societies and organisations</li>
+              <li>Innovation centres and incubators</li>
+              <li>Previous awardees</li>
+              <li>Colleagues and peers</li>
+              <li>Self-nominations</li>
             </ul>
+          </section>
+
+          <section className="mb-10">
+            <h2 className="font-druk text-2xl text-[#001324] mb-4">Nomination-to-Selection Workflow</h2>
+            <div className="space-y-4 font-graphik">
+              {[
+                { title: 'Stage 1 — Open Nominations', desc: 'Online nomination portal opens for global submissions.' },
+                { title: 'Stage 2 — Eligibility Screening', desc: 'The organising team verifies completeness, eligibility and relevance of nominations.' },
+                { title: 'Stage 3 — Expert Evaluation', desc: 'Eligible nominations are independently evaluated by experts using the published selection criteria.' },
+                { title: 'Stage 4 — Shortlisting', desc: 'High-scoring candidates are shortlisted for the next stage.' },
+                { title: 'Stage 5 — Jury Assessment', desc: 'A multidisciplinary jury reviews shortlisted nominations and evaluates their overall contribution and impact.' },
+                { title: 'Stage 6 — Final Selection', desc: 'Final awardees/recognition recipients are selected based on the consolidated evaluation.' },
+                { title: 'Stage 7 — Announcement', desc: 'Selected candidates are formally notified and announced through the AI Venture X @ CV-S3 2026 communication channels.' },
+                { title: 'Stage 8 — Recognition Ceremony', desc: 'Selected innovators and organisations will be recognised during the CV-S3 2026 programme at MAHE Dubai Campus.' },
+              ].map((stage, idx) => (
+                <div key={idx} className="flex items-start gap-4 rounded-xl border border-gray-200 bg-white p-5">
+                  <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full bg-[#001324] font-bold text-white">
+                    {idx + 1}
+                  </div>
+                  <div>
+                    <p className="font-bold text-[#001324]">{stage.title}</p>
+                    <p className="text-gray-700 leading-relaxed">{stage.desc}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
           </section>
 
           <section className="mb-10">
