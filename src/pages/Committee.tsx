@@ -22,19 +22,56 @@ const Committee = () => {
   ];
 
   const technicalProgramChairs = [
-    { name: "Rajkumar Singh Rathore", affiliation: "Cardiff Metropolitan University, UK" },
-    { name: "Utku Kose", affiliation: "Suleyman Demirel University, Isparta, Turkey" },
-    { name: "Jawid Nazir", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Ravishankar Dudhe", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Ramaprasad", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Sachidananda", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Jawid Nazir", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Prof. Suresha R", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Deepa Varghese", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
   ];
 
   const conveners = [
     { name: "Harpreet Singh Arora", affiliation: "Tel-Aviv University, Israel" },
   ];
 
+  const coConveners = [
+    { name: "Sarvesh Kumar Gupta", affiliation: "Oracle America, Inc. (Sr. Principal Engineer)" },
+  ];
+
   const organisingChairs = [
-    { name: "Sophia Rahman", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Abdulla", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Sophia Rahman", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Saranya Ashokkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Soniya George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. A. Daniel", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. KM Baalamurugan", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  ];
+
+  const trackChairs = [
+    { name: "Prof. Suresh Balakrishna", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Vyshak Sureshkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  ];
+
+  const sessionChairs = [
+    { name: "Dr. Sampath Suranjan", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Prof. Vidhya Ashok", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Asha Sunilkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Mudasir Bhat", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Naveen Chandrashekar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Pramod George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  ];
+
+  const registrationChairs = [
+    { name: "Dr. Pamba Raja Varma", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Dr. Sundus Zehra", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  ];
+
+  const eventHosts = [
+    { name: "Prof. Prachee Gupta", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Prof. Chythanya Krishnan", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  ];
+
+  const hospitality = [
+    { name: "Mr. Shekhar Roy", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Shoba Shaji Francis", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
   ];
 
   const publicationChairs = [
@@ -136,8 +173,14 @@ const Committee = () => {
             <CommitteeSection title="Conference Chair(s)" members={conferenceChairs} />
             <CommitteeSection title="Technical Program Chair(s)" members={technicalProgramChairs} />
             <CommitteeSection title="Convener(s)" members={conveners} />
+            <CommitteeSection title="Co-Convener(s)" members={coConveners} />
             <CommitteeSection title="Organising Chair(s)" members={organisingChairs} />
             <CommitteeSection title="Publication Chair(s)" members={publicationChairs} />
+            <CommitteeSection title="Track Chair" members={trackChairs} />
+            <CommitteeSection title="Session chair" members={sessionChairs} />
+            <CommitteeSection title="Registration" members={registrationChairs} />
+            <CommitteeSection title="Event Host (MC)" members={eventHosts} />
+            <CommitteeSection title="Hospitality" members={hospitality} />
 
             <div className="mt-8">
               <h3 className="font-druk text-xl md:text-2xl text-goldsmiths-text mb-4 border-b-2 border-goldsmiths-blue pb-2">

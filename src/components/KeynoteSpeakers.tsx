@@ -56,16 +56,10 @@ import KeynoteSpeakerCard from "./KeynoteSpeakerCard";
 const KeynoteSpeakers = () => {
   const speakers = [
     {
-      name: "Prof. Larisa Soldatova",
-      designation: "Professor in Data Science",
-      company: "Goldsmiths, University of London",
-      profilePic: "keynotes/laria.jpeg",
-    },
-    {
-      name: "Krishna Gandhi",
-      designation: "Automation Lead – Energy Sector",
-      company: "Artech LLC",
-      profilePic: "keynotes/krishna.jpeg",
+      name: "Manuj Arora",
+      designation: "Sr. Solutions Architect",
+      company: "Amazon Web Services",
+      profilePic: "keynotes/manuj.jpeg",
     },
   ];
 
