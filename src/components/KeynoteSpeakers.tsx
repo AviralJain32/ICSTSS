@@ -61,6 +61,12 @@ const KeynoteSpeakers = () => {
       company: "Amazon Web Services",
       profilePic: "keynotes/manuj.jpeg",
     },
+    {
+      name: "Dr Bharati Rathore",
+      designation: "University of South Wales",
+      company: "UK",
+      profilePic: "keynotes/Bharati.jpeg",
+    },
   ];
 
   return (
