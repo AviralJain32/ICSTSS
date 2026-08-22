@@ -1,5 +1,7 @@
 import React from 'react';
 import Footer from '@/components/Footer';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { AlertCircle, CheckCircle } from 'lucide-react';
 
 const AIventurex: React.FC = () => {
   return (
@@ -376,6 +378,33 @@ const AIventurex: React.FC = () => {
                   </div>
                 </div>
               ))}
+            </div>
+          </section>
+
+          <section className="mb-10 bg-amber-50 -mx-8 px-8 py-8">
+            <div className="grid md:grid-cols-2 gap-8 max-w-2xl">
+              <Card className="border border-gray-200 bg-white shadow-sm">
+                <CardHeader className="pb-3">
+                  <CardTitle className="text-lg flex items-center gap-2">
+                    <AlertCircle className="w-5 h-5 text-blue-600" />
+                    Last Date for Nomination
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-2xl font-bold text-black">5th Sept 2026</p>
+                </CardContent>
+              </Card>
+              <Card className="border border-gray-200 bg-white shadow-sm">
+                <CardHeader className="pb-3">
+                  <CardTitle className="text-lg flex items-center gap-2 text-black">
+                    <CheckCircle className="w-5 h-5 text-blue-600" />
+                    Announcement of Results
+                  </CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-2xl font-bold text-black">10th Sept 2026</p>
+                </CardContent>
+              </Card>
             </div>
           </section>
 
