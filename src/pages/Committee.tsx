@@ -59,6 +59,8 @@ const Committee = () => {
     { name: "Dr. Mudasir Bhat", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Naveen Chandrashekar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Pramod George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+    { name: "Mr. Manoj Sharma", affiliation: "Dr. Clifton Stephen" },
+    
   ];
 
   const registrationChairs = [
