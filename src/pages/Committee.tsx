@@ -59,7 +59,7 @@ const Committee = () => {
     { name: "Dr. Mudasir Bhat", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Naveen Chandrashekar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Pramod George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Mr. Manoj Sharma", affiliation: "Dr. Clifton Stephen" },
+    { name: "Dr. Clifton Stephen", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     
   ];
 
@@ -76,6 +76,7 @@ const Committee = () => {
   const hospitality = [
     { name: "Mr. Shekhar Roy", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Shoba Shaji Francis", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+     { name: "Mr.Manoj sharma", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
   ];
 
   const publicationChairs = [
