@@ -68,10 +68,10 @@ const KeynoteSpeakers = () => {
       profilePic: "keynotes/Bharati.jpeg",
     },
     {
-      name: "Prathamesh Sawarkar",
-      designation: "Business and Tech Innovation Analyst",
-      company: "Accenture Flex",
-      profilePic: "keynotes/Prathamesh.jpeg",
+      name: "Vasanta Kumar Tarra",
+      designation: "Lead Engineer",
+      company: "Guidewire Software Inc.",
+      profilePic: "keynotes/Vasanta.jpeg",
     },
     {
       name: "Adarsh Naidu",
