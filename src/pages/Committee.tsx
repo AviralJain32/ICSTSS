@@ -36,7 +36,7 @@ const Committee = () => {
   const coConveners = [
     { name: "Sarvesh Kumar Gupta", affiliation: "Oracle America, Inc. (Sr. Principal Engineer)" },
     { name: "Deepan Vishal Thulasi Vel", affiliation: "Lead Data Scientist, CVS Aetna" },
-
+  { name: "Archaana Pattabhii", affiliation: "Senior Vice President - Data Engineering Controls , Citigroup, New York , USA" },
   ];
 
   const organisingChairs = [

@@ -67,6 +67,24 @@ const KeynoteSpeakers = () => {
       company: "UK",
       profilePic: "keynotes/Bharati.jpeg",
     },
+    {
+      name: "Prathamesh Sawarkar",
+      designation: "Business and Tech Innovation Analyst",
+      company: "Accenture Flex",
+      profilePic: "keynotes/Prathamesh.jpeg",
+    },
+    {
+      name: "Adarsh Naidu",
+      designation: "AWS",
+      company: "Amazon Web Services, USA",
+      profilePic: "keynotes/Adarsh.jpeg",
+    },
+    {
+      name: "Ifeoluwa Oyeyipo",
+      designation: "Senior Manager, Customer Growth Strategy, CMT",
+      company: "Accenture, Houston, TX",
+      profilePic: "keynotes/Ifeoluwa.jpeg",
+    },
   ];
 
   return (
