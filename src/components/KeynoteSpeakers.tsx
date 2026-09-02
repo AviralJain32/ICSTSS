@@ -85,6 +85,24 @@ const KeynoteSpeakers = () => {
       company: "Accenture, Houston, TX",
       profilePic: "keynotes/Ifeoluwa.jpeg",
     },
+    {
+      name: "Sai Shuas Bobba",
+      designation: "",
+      company: "Deloitte",
+      profilePic: "keynotes/Sai.jpeg",
+    },
+    {
+  name: "Sai Raghu Ram Gummadidala",
+  designation: "",
+  company: "iSolve Technology Inc.",
+  profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
+},
+{
+  name: "Raghu Praneeth Akula",
+  designation: "EPM Cloud Architect",
+  company: "CSAA Insurance Services",
+  profilePic: "keynotes/raghu-praneeth-akula.jpeg",
+},
   ];
 
   return (

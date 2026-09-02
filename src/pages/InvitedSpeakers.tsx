@@ -15,7 +15,60 @@ const InvitedSpeakers = () => {
   profilePic: "invited-speakers/pratham-pravin-patkar.jpeg",
   country: "",
   city: "",
-}
+},
+{
+  name: "Darsana Usha Devi",
+  designation: "Senior Manager, Product",
+  company: "Walmart",
+  experience: "20+ Years",
+  email: "darsanaudevi@gmail.com",
+  conferenceLink: "",
+  areaOfResearch:
+    "GenAI Platforms, MCP, Agentic AI, RAG Architectures, LLM Orchestration, Data Platforms, AI/ML, Retail AI, Data Monetization",
+  profilePic: "invited-speakers/darsana-usha-devi.jpeg",
+  country: "USA",
+  city: "Bentonville",
+},
+{
+  name: "Maninder Pal Singh",
+  designation: "Vice President (Lead Software Engineer)",
+  company: "JPMorgan Chase & Co.",
+  experience: "20+ Years",
+  email: "mpsgotra85@gmail.com",
+  conferenceLink: "https://www.cvs3-conference.com/",
+  areaOfResearch:
+    "Agentic AI, Cloud & Data Architecture, AI-Driven Automation, DevOps, CI/CD, Cloud Security, IAM, PAM, Zero Trust, OAuth/OIDC, Data Warehousing, Cloud Migration, Regulatory Compliance",
+  profilePic: "invited-speakers/maninder-pal-singh.jpeg",
+  country: "",
+  city: "",
+},
+{
+  name: "Srinivas Prasad Bheemasamudra Laxminarayan",
+  designation: "Senior Solutions Architect",
+  company: "Amazon Web Services (AWS)",
+  experience: "23 Years",
+  email: "srini4code@gmail.com",
+  conferenceLink: "https://www.cvs3-conference.com/",
+  areaOfResearch:
+    "Cloud Computing, AI, Enterprise Transformation, IoT, Thermal Device Intelligence, Anomaly Detection, Predictive Maintenance, Agentic AI, Life Sciences Technology, Intelligent Operations",
+  profilePic: "invited-speakers/srinivas-prasad-bheemasamudra-laxminarayan.jpeg",
+  country: "",
+  city: "",
+},
+{
+  name: "Sai Arundeep Aetukuri",
+  designation: "Data Engineer",
+  company: "MHK Tech",
+  experience: "8 Years",
+  email: "asaiarun996@gmail.com",
+  conferenceLink: "https://www.cvs3-conference.com/",
+  areaOfResearch:
+    "Agentic AI, Large Language Models, Data Engineering, Big Data Engineering, RAG Frameworks, Model Context Protocol (MCP), LLM-Driven Data Architectures, Autonomous Pipeline Orchestration, Vector Embeddings, Cloud Data Environments, Smart Sustainable Enterprises",
+  profilePic: "invited-speakers/sai-arundeep-aetukuri.jpeg",
+  country: "",
+  city: "Dubai",
+},
+
 ];
 
   return (
