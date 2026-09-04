@@ -103,6 +103,12 @@ const KeynoteSpeakers = () => {
   company: "CSAA Insurance Services",
   profilePic: "keynotes/raghu-praneeth-akula.jpeg",
 },
+{
+  name: "Maninder Pal Singh",
+  designation: "Vice President (Lead Software Engineer)",
+  company: "JPMorgan Chase & Co.",
+  profilePic: "keynotes/maninder-pal-singh.jpeg",
+},
   ];
 
   return (

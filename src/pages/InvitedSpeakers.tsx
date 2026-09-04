@@ -30,19 +30,6 @@ const InvitedSpeakers = () => {
   city: "Bentonville",
 },
 {
-  name: "Maninder Pal Singh",
-  designation: "Vice President (Lead Software Engineer)",
-  company: "JPMorgan Chase & Co.",
-  experience: "20+ Years",
-  email: "mpsgotra85@gmail.com",
-  conferenceLink: "https://www.cvs3-conference.com/",
-  areaOfResearch:
-    "Agentic AI, Cloud & Data Architecture, AI-Driven Automation, DevOps, CI/CD, Cloud Security, IAM, PAM, Zero Trust, OAuth/OIDC, Data Warehousing, Cloud Migration, Regulatory Compliance",
-  profilePic: "invited-speakers/maninder-pal-singh.jpeg",
-  country: "",
-  city: "",
-},
-{
   name: "Srinivas Prasad Bheemasamudra Laxminarayan",
   designation: "Senior Solutions Architect",
   company: "Amazon Web Services (AWS)",
