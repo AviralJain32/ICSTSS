@@ -109,6 +109,12 @@ const KeynoteSpeakers = () => {
   company: "JPMorgan Chase & Co.",
   profilePic: "keynotes/maninder-pal-singh.jpeg",
 },
+{
+name: "Varsha Shah",
+designation: "Technical Architect",
+company: "Tata Consultancy Services LTD.",
+profilePic: "keynotes/varsha-shah.jpeg",
+},
   ];
 
   return (
