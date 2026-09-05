@@ -28,7 +28,7 @@ const InvitedSpeakers = () => {
   profilePic: "invited-speakers/darsana-usha-devi.jpeg",
   country: "USA",
   city: "Bentonville",
-},
+},    
 {
   name: "Srinivas Prasad Bheemasamudra Laxminarayan",
   designation: "Senior Solutions Architect",
@@ -55,6 +55,20 @@ const InvitedSpeakers = () => {
   country: "",
   city: "Dubai",
 },
+{
+  name: "Manas Kumar Mohanty",
+  designation: "Data Analytics Engineer II",
+  company: "CHRISTUS Health",
+  experience: "20 Years",
+  email: "[manaskmohanty1111@gmail.com](mailto:manaskmohanty1111@gmail.com)",
+  conferenceLink: "https://www.cvs3-conference.com/",
+  areaOfResearch:
+  "Bio-Inspired Artificial Intelligence, Evolutionary Computation, Neural Adaptation, Swarm Optimization, Reinforcement Learning, Adaptive System Design, Healthcare AI, Autonomous Systems, Edge Computing",
+  profilePic: "invited-speakers/manas-kumar-mohanty.jpg",
+  country: "",
+  city: "",
+},
+
 
 ];
 
