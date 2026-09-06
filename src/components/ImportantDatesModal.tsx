@@ -13,7 +13,7 @@ const ImportantDatesModal: React.FC = () => {
   const importantDates = [
     { title: "Paper Submission Deadline", date: "22nd August 2026" },
     { title: "Acceptance Notification Due", date: "30th August 2026" },
-    { title: "Registration Due", date: "15th August 2026" },
+    { title: "Registration Due", date: "10th August 2026" },
     { title: "Camera Ready Submission", date: "30th August 2026" },
     { title: "Conference Dates", date: "23rd - 24th September 2026" }
   ];
