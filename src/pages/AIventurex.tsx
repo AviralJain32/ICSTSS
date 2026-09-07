@@ -391,7 +391,7 @@ const AIventurex: React.FC = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-black">5th Sept 2026</p>
+                  <p className="text-2xl font-bold text-black">14th Sept 2026</p>
                 </CardContent>
               </Card>
               <Card className="border border-gray-200 bg-white shadow-sm">
@@ -402,7 +402,7 @@ const AIventurex: React.FC = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent>
-                  <p className="text-2xl font-bold text-black">10th Sept 2026</p>
+                  <p className="text-2xl font-bold text-black">19th Sept 2026</p>
                 </CardContent>
               </Card>
             </div>
