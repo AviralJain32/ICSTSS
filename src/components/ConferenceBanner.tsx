@@ -39,7 +39,7 @@ const ConferenceBanner = () => {
           </p>
           <div className="mb-2 flex flex-wrap items-center justify-center text-sm md:text-base">
             <Calendar className="mr-2" size={16} />
-            <p className="break-words">23rd - 24th September 2026</p>
+            <p className="break-words">26th - 27th October 2026</p>
           </div>
           <p className="break-words text-sm font-medium text-yellow-300 md:text-base">
             Focus: AI, IoT, Smart Grids, Green Energy, Blockchain, Cloud Computing, and Sustainable Systems

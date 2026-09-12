@@ -7,6 +7,32 @@ import { Button } from '@/components/ui/button';
 const Downloads = () => {
   const downloadItems = [
     {
+      name: 'Paper Presentation Schedule',
+      link: '/downloads/Paper_Presentation_Schedule_CVS3_2026.pdf',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'Adroid PPT Template PDF',
+      link: '/downloads/CVS3_2026_PPT_Template_Adroid.pdf',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'Adroid PPT Template',
+      link: '/downloads/CVS3_2026_PPT_Template_Adroid.pptx',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'Springer PPT Template PDF',
+      link: '/downloads/CVS3_2026_PPT_Template_Springer.pdf',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    {
+      name: 'Springer PPT Template',
+      link: '/downloads/CVS3_2026_PPT_Template_Springer.pptx',
+      icon: <FileText className="mr-2" size={18} />
+    },
+    
+    {
       name: 'Checklist',
       link: '/Checklist.pdf',
       icon: <FileText className="mr-2" size={18} />
@@ -26,6 +52,7 @@ const Downloads = () => {
       link: '/Springer_Latex_Template.zip',
       icon: <FileText className="mr-2" size={18} />
     },
+    
   ];
 
   return (

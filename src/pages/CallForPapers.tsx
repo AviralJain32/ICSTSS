@@ -91,7 +91,7 @@ const CallForPapers: React.FC = () => {
               <li>Acceptance Notification Due: <strong>30th August 2026</strong></li>
               <li>Registration Due: <strong>15th August 2026</strong></li>
               <li>Camera Ready Submission: <strong>30th August 2026</strong></li>
-              <li>Conference Dates: <strong>23rd - 24th September 2026</strong></li>
+              <li>Conference Dates: <strong>26th - 27th October 2026</strong></li>
             </ul>
           </div> */}
 
