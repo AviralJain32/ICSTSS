@@ -52,16 +52,16 @@ const Committee = () => {
     { name: "Dr. Vyshak Sureshkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
   ];
 
-  const sessionChairs = [
-    { name: "Dr. Sampath Suranjan", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Prof. Vidhya Ashok", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Dr. Asha Sunilkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Dr. Mudasir Bhat", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Dr. Naveen Chandrashekar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Dr. Pramod George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
-    { name: "Dr. Clifton Stephen", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  // const sessionChairs = [
+  //   { name: "Dr. Sampath Suranjan", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Prof. Vidhya Ashok", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Dr. Asha Sunilkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Dr. Mudasir Bhat", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Dr. Naveen Chandrashekar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Dr. Pramod George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
+  //   { name: "Dr. Clifton Stephen", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     
-  ];
+  // ];
 
   const registrationChairs = [
     { name: "Dr. Pamba Raja Varma", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
@@ -182,7 +182,7 @@ const Committee = () => {
             <CommitteeSection title="Organising Chair(s)" members={organisingChairs} />
             <CommitteeSection title="Publication Chair(s)" members={publicationChairs} />
             <CommitteeSection title="Track Chair" members={trackChairs} />
-            <CommitteeSection title="Session chair" members={sessionChairs} />
+            {/* <CommitteeSection title="Session chair" members={sessionChairs} /> */}
             <CommitteeSection title="Registration" members={registrationChairs} />
             <CommitteeSection title="Event Host (MC)" members={eventHosts} />
             <CommitteeSection title="Hospitality" members={hospitality} />
