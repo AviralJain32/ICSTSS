@@ -31,6 +31,12 @@ const Downloads = () => {
       link: '/downloads/CVS3_2026_PPT_Template_Springer.pptx',
       icon: <FileText className="mr-2" size={18} />
     },
+
+    {
+      name: 'License Form',
+      link: '/downloads/License_Form.docx',
+      icon: <FileText className="mr-2" size={18} />
+    },
     
     {
       name: 'Checklist',
