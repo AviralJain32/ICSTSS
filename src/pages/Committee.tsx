@@ -40,6 +40,7 @@ const Committee = () => {
   ];
 
   const organisingChairs = [
+    { name: "Deepak Gupta", affiliation: "Maharaja Agrasen Institute of Technology, India" },
     { name: "Dr. Sophia Rahman", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Saranya Ashokkumar", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
     { name: "Dr. Soniya George", affiliation: "Manipal Academy of Higher Education, Dubai Campus" },
