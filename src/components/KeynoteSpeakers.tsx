@@ -115,6 +115,12 @@ designation: "Technical Architect",
 company: "Tata Consultancy Services LTD.",
 profilePic: "keynotes/varsha-shah.jpeg",
 },
+{
+name: "Satish Kumar Malaraju",
+designation: "Technical Architect",
+company: "VHL Technologies Inc.",
+profilePic: "keynotes/satish-kumar-malaraju.jpeg",
+},
   ];
 
   return (
