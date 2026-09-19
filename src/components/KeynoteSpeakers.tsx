@@ -91,12 +91,12 @@ const KeynoteSpeakers = () => {
       company: "Deloitte",
       profilePic: "keynotes/Sai.jpeg",
     },
-    {
-  name: "Sai Raghu Ram Gummadidala",
-  designation: "",
-  company: "iSolve Technology Inc.",
-  profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
-},
+//     {
+//   name: "Sai Raghu Ram Gummadidala",
+//   designation: "",
+//   company: "iSolve Technology Inc.",
+//   profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
+// },
 {
   name: "Raghu Praneeth Akula",
   designation: "EPM Cloud Architect",
