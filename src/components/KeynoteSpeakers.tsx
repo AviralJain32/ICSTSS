@@ -118,8 +118,14 @@ profilePic: "keynotes/varsha-shah.jpeg",
 {
 name: "Satish Kumar Malaraju",
 designation: "Technical Architect",
-// company: "VHL Technologies Inc.",
+company: "VHL Technologies Inc.",
 profilePic: "keynotes/satish-kumar-malaraju.jpeg",
+},
+{
+name: "Satyanarayana Gopisetty",
+designation: "Senior Cloud & DevOps Architect",
+company: "Toyota Financial Services, USA",
+profilePic: "keynotes/satyanarayana-gopisetty.jpeg",
 },
   ];
 
