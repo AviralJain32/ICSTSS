@@ -10,6 +10,7 @@ export default function CvAwards() {
 
   const academicAwards = [
     'Global Academic Legacy Award',
+    'Academic Excellence Award in AI in Regulatory and Clinical Research',
     'Distinguished Teaching Excellence Award',
     'Academic Leadership Excellence Award',
     'Visionary Academic Leadership Award',
@@ -257,7 +258,7 @@ const specialRecognitionAwards = [
   ];
 
   const categories = [
-  { title: 'Academic Excellence & Leadership Awards', count: '18 Awards', awards: academicAwards },
+  { title: 'Academic Excellence & Leadership Awards', count: '19 Awards', awards: academicAwards },
   { title: 'Research, Innovation & Impact Awards', count: '18 Awards', awards: researchAwards },
   { title: 'Innovation & Entrepreneurship Awards', count: '16 Awards', awards: innovationAwards },
   { title: 'Academia–Industry Synergy Awards', count: '14 Awards', awards: academiaIndustryAwards },
