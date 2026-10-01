@@ -25,6 +25,8 @@ import CheckoutForm from './pages/Checkout';
 import CvAwards from './pages/CvAwards';
 import InvitedSpeakers from './pages/InvitedSpeakers';
 import KeynoteSpeakers from './components/KeynoteSpeakers';
+import BestPaperAwards from './pages/BestPaperAwards';
+import CVS3AwardsResults from './pages/CVS3AwardResults';
 
 const queryClient = new QueryClient();
 
@@ -56,6 +58,8 @@ const App: React.FC = () => (
               <Route path="/privacy-policy" element={<PrivacyPolicy />} />
               <Route path="/ai-venturex" element={<AIventurex />} />
               <Route path="/awards" element={<CvAwards />} />
+              <Route path="/best-paper-awards" element={<BestPaperAwards />} />
+              <Route path="/cvs3-awards-results" element={<CVS3AwardsResults />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Routes>
