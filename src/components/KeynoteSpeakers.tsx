@@ -98,6 +98,12 @@ const KeynoteSpeakers = () => {
 //   profilePic: "keynotes/sai-raghu-ram-gummadidala.jpeg",
 // },
 {
+  name: "Gopichand Talluri",
+  designation: "",
+  company: "ANNSLO TECH INC",
+  profilePic: "keynotes/gopichand-talluri.jpeg",
+},
+{
   name: "Raghu Praneeth Akula",
   designation: "EPM Cloud Architect",
   company: "CSAA Insurance Services",
