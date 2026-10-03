@@ -25,7 +25,9 @@ const BestPaperAwards: React.FC = () => {
     { title: 'Reinforcement Learning Based Adaptive Financial Intelligence for Real-Time Fraud Mitigation Risk Optimization and FinTech Security', authors: 'Azhar Ushmani' },
     { title: 'Federated AI-Driven Financial Intelligence for Privacy-Preserving Risk Assessment Collaborative Fraud Detection and Decision Support', authors: 'Prasanna Kumar Kandregula' },
     { title: 'A Genetic AI-Driven Enterprise Knowledge Automation Through Intelligent Information Management and Adaptive Data Governance', authors: 'Saket Mishra' },
-    { title: 'Energy Risk Limits for Adaptive Inference: When Is Condence the Right Exit Rule?', authors: 'Sarvagya Jha' }
+     { title: 'Privacy-Aware Federated Learning With Foundation Models for Secure Healthcare Analytics and Distributed Clinical Decision Making', authors: 'Bhargav Krishna Korrapati' },
+    { title: 'Comparative Analysis of NoSQL and Relational Databases for Modern Data-Intensive Applications', authors: 'Amit Mishra' }
+  
   ];
 
   return (
