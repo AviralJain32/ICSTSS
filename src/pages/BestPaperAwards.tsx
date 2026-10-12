@@ -27,7 +27,9 @@ const BestPaperAwards: React.FC = () => {
     { title: 'A Genetic AI-Driven Enterprise Knowledge Automation Through Intelligent Information Management and Adaptive Data Governance', authors: 'Saket Mishra' },
      { title: 'Privacy-Aware Federated Learning With Foundation Models for Secure Healthcare Analytics and Distributed Clinical Decision Making', authors: 'Bhargav Krishna Korrapati' },
     { title: 'Comparative Analysis of NoSQL and Relational Databases for Modern Data-Intensive Applications', authors: 'Amit Mishra' },
-    { title: 'SS-DT: A Self-Supervised Digital Twin Approach to Autonomous Forecasting and Anomaly Detection in Azure Cloud Infrastructure', authors: 'Hemanta Ghosh, Sivakumar Selvaraj, and Vikram Isanaka' }
+    { title: 'SS-DT: A Self-Supervised Digital Twin Approach to Autonomous Forecasting and Anomaly Detection in Azure Cloud Infrastructure', authors: 'Hemanta Ghosh, Sivakumar Selvaraj, and Vikram Isanaka' },
+     { title: 'Data-Driven Decision Support Systems for Intelligent Software Development Life Cycle Management', authors: 'Data-Driven Decision Support Systems for Intelligent Software Development Life Cycle Management' },
+     { title: 'AI-Enabled Data Engineering for Efficient Data Governance and Quality Management', authors: 'Syed Mukuram Hussainy Hidayathulla, Tejaskumar Patel, Shashi Kiran Chandrappa' }
   
   ];
 

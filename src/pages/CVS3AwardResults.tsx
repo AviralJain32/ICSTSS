@@ -214,8 +214,8 @@ const CVS3AwardsResults: React.FC = () => {
     },
     {
       name: 'Gunjan Shegade',
-      category: 'SAP Cloud & Enterprise Digital Transformation Awards',
-      subAward: 'SAP Analytics Cloud Excellence Award'
+      category: 'Research, Innovation & Impact Awards (Performance Engineering)',
+      subAward: 'Research Excellence & Innovation Award'
     },
     {
       name: 'Dr. Shashi Kant Gupta',
