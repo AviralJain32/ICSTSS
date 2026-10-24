@@ -13,7 +13,7 @@ const BestPaperAwards: React.FC = () => {
     { title: 'Smart Mobility in Smart Cities: A Policy and Governance Analysis of Dubai', authors: 'Asitha Gayatri Rudraraju, Shreya Prasad, Dr. Mrutyunjaya Sahu' },
     { title: 'Cheque Dishonor and Criminal Jurisprudence in India: AI-Assisted Legal Intelligence for Criminal Case Analysis', authors: 'Ms. Rajbir Kaur, Dr. Arpana Bansal, Dr. Raman Chadha, Sushil Kumar Singh' },
     { title: 'Agentic AI Framework for Autonomous Financial Planning and Investment Decision Support', authors: 'Rohini Maskar' },
-    { title: 'Agentic AI Framework for Autonomous Financial Planning and Investment Decision Support', authors: 'Jimmy Joseph' },
+    { title: 'Temporal Heterogeneous Graph Neural Networks for Detecting Coordinated Billing Anomalies in Healthcare Claims', authors: 'Jimmy Joseph' },
     { title: 'AI-Based Stock Replenishment and Lead Time Optimization for Efficient Supply Chain Operations', authors: 'Saurabh Goel, Saurabh Brajesh' },
     { title: 'An Interpretable EfficientNetV2-S-KAN Framework for Automated Diabetic Retinopathy Severity Grading', authors: 'Indresh Kumar Gupta, Tadiwela Elisha Nyamasvisva, Rajesh Kumar Tiwari, Nitin Pahariya, Aditi Sharma' },
     { title: 'Explainable AI Framework for Intelligent Software Engineering, Automated Code Analysis', authors: 'Shivam Gupta, Nandakishore Leburu' },
