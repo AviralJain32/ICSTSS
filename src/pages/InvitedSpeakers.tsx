@@ -68,6 +68,30 @@ const InvitedSpeakers = () => {
   country: "",
   city: "",
 },
+{
+  name: "Himanshu Jain",
+  designation: "",
+  company: "Independent Researcher",
+  experience: "",
+  email: "",
+  conferenceLink: "",
+  areaOfResearch: "",
+  profilePic: "invited-speakers/himanshu-jain.jpg",
+  country: "",
+  city: "",
+},
+{
+  name: "Thiyagarajan Palaniyappan",
+  designation: "Senior Applied Scientist",
+  company: "Amazon Web Services (AWS)",
+  experience: "",
+  email: "",
+  conferenceLink: "",
+  areaOfResearch: "",
+  profilePic: "invited-speakers/thiyagarajan-palaniyappan.jpg",
+  country: "",
+  city: "",
+},
 
 
 
